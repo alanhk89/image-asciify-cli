@@ -1,6 +1,6 @@
 {
   "name": "image-asciify-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert images to ASCII art using command line",
   "main": "index.js",
   "bin": {
