@@ -80,7 +80,7 @@ var asciify_core = function (path, opts, callback) {
 
     var ascii = '';
     if (!options.as_string) ascii = [];
-    console.log(opts);
+
     if (opts.custom_char) {
       chars = opts.custom_char;
       num_c = chars.length - 1;
